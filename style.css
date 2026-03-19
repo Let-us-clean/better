@@ -21,7 +21,7 @@ body{
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url(images/bn.jpeg);
+        url(bn.jpeg);
         background-position: center bottom;
         background-repeat: no-repeat;
         background-size: cover;
@@ -146,7 +146,7 @@ body{
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url(images/blok.jpeg);
+        url(blok.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -196,14 +196,14 @@ body{
     background-color: #e1e2e6;
 }
 .general-2 {
-    background-image: url(images/bl.jpeg);
+    background-image: url(bl.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
 }
 .general-3 {
-    background-image: url(images/mil.jpeg);
+    background-image: url(mil.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
